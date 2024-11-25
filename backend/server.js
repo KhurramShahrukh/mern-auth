@@ -14,7 +14,7 @@ dotenv.config();
 const port = process.env.PORT;
 const corsOptions = {
   credentials: true,
-  origin: ['http://localhost:3000'] // Whitelist the domains you want to allow
+  origin: ['http://localhost:3000', 'https://mern-auth-frontend-project.vercel.app'] // Whitelist the domains you want to allow
 };
 
 // connect to db
