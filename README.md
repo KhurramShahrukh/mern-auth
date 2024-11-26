@@ -1,3 +1,3 @@
-# MERN Auth
+# A MERN app with jwt authentication.
 
-A MERN app that with jwt authentication.
+https://mern-auth-frontend-project.vercel.app/
